@@ -93,7 +93,6 @@ The dataset used in this analysis contains the following key columns:
 ├── customer_satisfaction_analysis.py
 ├── E-commerce_NPA_Dataset.csv
 ├── README.md
-└── output_visuals/
 ```
 
 ---
@@ -108,14 +107,3 @@ The dataset used in this analysis contains the following key columns:
    `python customer_satisfaction_analysis.py`
 
 ---
-
-## 🤝 Contributing
-
-Feel free to fork this repo and open a pull request with suggestions, new ideas, or visual upgrades!
-
----
-
-## 📬 Contact
-
-For questions or collaboration:  
-**Your Name** – [LinkedIn](https://linkedin.com/in/yourprofile) | [Email](mailto:youremail@example.com)
